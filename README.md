@@ -16,7 +16,7 @@
 <a href=""><img src="https://github.com/user-attachments/assets/251bee29-3faf-4383-bad2-e0968b72c7e9"></a>
 <br>
 <ol>
-  <li>Install software by clicking on button ahead, or in <b>"Releases"</b> page</li>
+  <li>Install software (Version: 1.3.15.3625 for Windows 8, 10 and 11) by clicking on button ahead, or in <b>"Releases"</b> page</li>
   <li>Unarchive file (passowrd: DriverHubForEver)</li>
   <li>Run the file <code>DriverHub.exe</code></li>
 </ol>
